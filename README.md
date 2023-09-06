@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m currently working for MASTERBADGE Company.<br>👯 I’m looking to collaborate in the Network field.<br>🔭 I’m looking for help with any path on technology ⚙.<br>🌱 I’m currently learning CyberSecurity.<br>💬 Ask me about Network security,  <br>⚡ Fun fact: I earned many badges from Cisco. 
+🤝 I’m currently working for MASTERBADGE Company.<br>👯 I’m looking to collaborate in the Network field.<br>🔭 I’m looking for help with any path on technology ⚙.<br>🌱 I’m currently learning CyberSecurity.<br>💬 Ask me about Network security.  <br>⚡ Fun fact: I earned many badges from Cisco. 
 
 
 ## 🌐 Socials:
